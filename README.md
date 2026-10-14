@@ -1,1 +1,5 @@
-# cs101-version-control-157
+# My CS Profile
+
+## About Me
+- Name: norraworn
+- Major: Computer Science
